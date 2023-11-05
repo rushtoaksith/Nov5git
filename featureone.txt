@@ -1,2 +1,0 @@
-This is feature1: Reels which has to be improvised by developer1 on a separate branch called
-"dev1".
